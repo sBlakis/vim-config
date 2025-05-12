@@ -1,0 +1,16 @@
+# Vim swap files
+
+*.swp
+*.swo
+*.swn
+
+
+# Vim-plug plugin directory (manage plugins via PlugInstall)
+plugged/
+.vim/plugged/
+
+
+# Other Vim backup files
+*~
+*.bak
+
